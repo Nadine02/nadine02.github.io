@@ -5,4 +5,4 @@ output:
   - format: pdf
 generate_landingpage: true
 generate_reuse_note: true
-theme: jekyll-theme-cayman
+theme: cayman
