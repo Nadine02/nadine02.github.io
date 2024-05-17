@@ -1,8 +1,2 @@
-output:
-  - format: asciidoc
-  - format: epub
-  - format: html
-  - format: pdf
-generate_landingpage: true
-generate_reuse_note: true
-theme: cayman
+title: Erste Schritte in eLabFTW
+remote_theme: pages-themes/cayman@v0.2.0
