@@ -1,0 +1,8 @@
+output:
+  - format: asciidoc
+  - format: epub
+  - format: html
+  - format: pdf
+generate_landingpage: true
+generate_reuse_note: true
+theme: jekyll-theme-cayman
