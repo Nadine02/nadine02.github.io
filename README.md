@@ -39,6 +39,9 @@ Der **Status** kann je nach Fortschritt des Experiments angepasst werden.
 ![animation](Experimente.gif)
 
 
+Für Experimente können **Vorlagen** erstellt werden, sodass die Dokumentation vereinheitlicht und das Ausfüllen vereinfacht wird.
+![bild](Vorlagen.png)
+
 Ein **Editor** ermöglicht die Dokumentation der Durchführung und Ergebnisse des Experimentes. 
 
 ![animation](Experimente_Editor.gif)
@@ -49,7 +52,23 @@ Für ein Experiment können einzelne **Schritte** definiert und je nach Erledigu
 
 Die für dieses Experiment notwendigen Ressourcen können verknüpft werden, sodass dadurch Details abrufbar sind.
 
-Dateianhänge ermöglichen die Ablage von weiteren Informationen oder Bildern zum Experiment.
+![bild](Verknüpfungen.png)
+
+**Dateianhänge** ermöglichen die Ablage von weiteren Informationen oder Bildern zum Experiment.
+
+![bild](Dateianhang.png)
+
+
+## Kategorien
+
+Admins eines Teams können Kategorien für Experimente und Ressourcen festlegen und farblich unterscheidbar machen. So erhalten Experimente und Ressourcen eine übersichtliche Struktur.
+
+![bild](Kategorien.png)
+
+
+## Weitere Funktionen
+
+
 
 
 
