@@ -1,7 +1,7 @@
 # eLabFTW - Überblick + Vorstellung
 
 ## Worum geht es hier?
-Diese Webseite bietet einen Überblick zum Elektronischen Laborbuch eLabFTW, um Wissenschaftler*innen ohne Vorerfahrung das Konzept und die Darstellung einzelner Funktionen vorzustellen. Eine Einführung in die Nutzung von eLabFTW umfasst diese Webseite nicht (siehe weiterführende Informationen)
+Diese Webseite bietet einen Überblick zum Elektronischen Laborbuch eLabFTW, um Wissenschaftler*innen ohne Vorerfahrung das Konzept und die Darstellung einzelner Funktionen vorzustellen. Einführungen in die Nutzung von eLabFTW ist in den weiterführenden Informationen zu finden.
 
 ## Was ist ein Elektronisches Laborbuch (ELB)?
 Ein ELB ist eine digitale Plattform für Forschungsaktivitäten. Es kann für die Planung, Durchführung, Dokumentation und Auswertung von Experimenten genutzt werden. Ebenso können Materialien und Geräte verwaltet werden.
@@ -18,13 +18,13 @@ Die Zusammenarbeit in eLabFTW erfolgt in Teams, die von Team Admins organisiert 
 ## Dashboard
 Das Dashboard gibt einen Überblick über Inhalte und Aktivitäten eines Teams.
 
-**Experimente**
+**Experimente**  
 Experimente können durch Kategorien strukturiert werden. Statusangaben weisen auf den Fortschritt eines Experimentes hin. Neue Experimente können mit oder ohne Vorlage neu erstellt werden.
 
-**Ressourcen**
+**Ressourcen**  
 Mit Ressourcen können verschiedene Kategorien von Materialien oder Geräten, die in Experimenten Verwendung finden, organisiert und verknüpft werden.
 
-**Buchungen**
+**Buchungen**  
 Für Ressourcen gibt es eine Buchungsfunktion, sodass Teammitglieder über eine Kalenderfunktion diese nutzen können.
 
 ![animation](Dashboard.gif)
@@ -40,15 +40,19 @@ Der **Status** kann je nach Fortschritt des Experiments angepasst werden.
 
 
 Für Experimente können **Vorlagen** erstellt werden, sodass die Dokumentation vereinheitlicht und das Ausfüllen vereinfacht wird.
+
 ![bild](Vorlagen.png)
+
 
 Ein **Editor** ermöglicht die Dokumentation der Durchführung und Ergebnisse des Experimentes. 
 
 ![animation](Experimente_Editor.gif)
 
+
 Für ein Experiment können einzelne **Schritte** definiert und je nach Erledigung markiert werden. 
 
 ![animation](Experiment_Schritte.gif)
+
 
 Die für dieses Experiment notwendigen Ressourcen können verknüpft werden, sodass dadurch Details abrufbar sind.
 
@@ -61,12 +65,24 @@ Die für dieses Experiment notwendigen Ressourcen können verknüpft werden, sod
 
 ## Kategorien
 
-Admins eines Teams können Kategorien für Experimente und Ressourcen festlegen und farblich unterscheidbar machen. So erhalten Experimente und Ressourcen eine übersichtliche Struktur.
+Team Admins können Kategorien für Experimente und Ressourcen festlegen und farblich unterscheidbar machen. So erhalten Experimente und Ressourcen eine übersichtliche Struktur.
 
 ![bild](Kategorien.png)
 
 
 ## Weitere Funktionen
+eLabFTW bietet weitere Funktionen zum Bearbeiten und Abschließen von Experimenten. 
+
+- Volltextsuche
+- Terminplaner für Teams
+- Neue Felder mit JSON
+- Formeln mit TeXCommand
+- Versionierung
+- Zeitstempel
+- Export
+
+## Weiterführende Informationen
+Einführungsvideos in die Nutzung von eLabFTW: [OER.DigiChem.NRW](https://av.tib.eu/series/1590/oer+digichem+elabftw)
 
 
 
