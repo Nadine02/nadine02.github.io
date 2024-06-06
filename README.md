@@ -1,7 +1,7 @@
 # eLabFTW - Überblick + Vorstellung
 
 ## Worum geht es hier?
-Diese Webseite bietet einen Überblick zum Elektronischen Laborbuch eLabFTW, um Wissenschaftler*innen ohne Vorerfahrung das Konzept und die Darstellung einzelner Funktionen vorzustellen. Einführungen in die Nutzung von eLabFTW ist in den weiterführenden Informationen zu finden.
+Diese Webseite bietet einen Überblick zum Elektronischen Laborbuch eLabFTW, um Wissenschaftler*innen ohne Vorerfahrung das Konzept und die Darstellung einzelner Funktionen vorzustellen. Einführungen in die Nutzung von eLabFTW ist in den [weiterführenden Informationen](#Weiterführende Informationen) zu finden.
 
 ## Was ist ein Elektronisches Laborbuch (ELB)?
 Ein ELB ist eine digitale Plattform für Forschungsaktivitäten. Es kann für die Planung, Durchführung, Dokumentation und Auswertung von Experimenten genutzt werden. Ebenso können Materialien und Geräte verwaltet werden.
@@ -58,6 +58,7 @@ Die für dieses Experiment notwendigen Ressourcen können verknüpft werden, sod
 
 ![bild](Verknüpfungen.png)
 
+
 **Dateianhänge** ermöglichen die Ablage von weiteren Informationen oder Bildern zum Experiment.
 
 ![bild](Dateianhang.png)
@@ -71,7 +72,7 @@ Team Admins können Kategorien für Experimente und Ressourcen festlegen und far
 
 
 ## Weitere Funktionen
-eLabFTW bietet weitere Funktionen zum Bearbeiten und Abschließen von Experimenten. 
+eLabFTW bietet weitere Funktionen zum Bearbeiten und Abschließen von Experimenten, u.a.: 
 
 - Volltextsuche
 - Terminplaner für Teams
