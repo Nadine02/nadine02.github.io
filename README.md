@@ -13,6 +13,7 @@ eLabFTW ist ein Elektronisches Laborbuch, das fachübergreifend eingesetzt werde
 Die Zusammenarbeit in eLabFTW erfolgt in Teams, die von Team Admins organisiert und strukturiert werden. Eine Instanz von eLabFTW wird von einem Sysadmin betreut, der u.a. die Erstellung von Teams übernimmt. Team Admins verwalten registrierte Nutzer*innen für ein Team. Durch die Erstellung von Gruppen ist auch teamübergreifende Arbeit möglich.
 
 ![grafik](Struktur_Rollen.png)
+> Grafik angelehnt an: *Timm, H., Danker, S. A., & Schmidt, F. M. (2022). Slides for eLabFTW hands-on workshop. https://duepublico2.uni-due.de/receive/duepublico_mods_00076162 lizenziert unter CC BY 4.0*
 
 
 ## Dashboard
