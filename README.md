@@ -88,8 +88,8 @@ eLabFTW bietet weitere Funktionen zum Bearbeiten und Abschließen von Experiment
 Einführungsvideos in die Nutzung von eLabFTW: [OER.DigiChem.NRW](https://av.tib.eu/series/1590/oer+digichem+elabftw)
 
 
-
-![bild](cc-by.png)
+## Lizenzhinweis
+![bild](cc-by.png)  
 Die Inhalte dieser Webseite "eLabFTW - Überblick und Vorstellung" von Nadine Schröder stehen unter einer CC BY 4.0 Lizenz (https://creativecommons.org/licenses/by/4.0/) ausgenommen des eLabFTW-Logos.
 
 
