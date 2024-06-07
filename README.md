@@ -1,5 +1,7 @@
 # eLabFTW - Überblick + Vorstellung
 
+![bild](elabftw-logo.png)
+
 ## Worum geht es hier?
 Diese Webseite bietet einen Überblick zum Elektronischen Laborbuch eLabFTW, um Wissenschaftler*innen ohne Vorerfahrung das Konzept und die Darstellung einzelner Funktionen vorzustellen. Einführungen in die Nutzung von eLabFTW ist in den [weiterführenden Informationen](#weiterführende-informationen) zu finden.
 
