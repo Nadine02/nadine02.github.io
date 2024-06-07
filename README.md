@@ -90,7 +90,7 @@ Einführungsvideos in die Nutzung von eLabFTW: [OER.DigiChem.NRW](https://av.tib
 
 ## Lizenzhinweis
 ![bild](cc-by.png)  
-Die Inhalte dieser Webseite "eLabFTW - Überblick und Vorstellung" von Nadine Schröder stehen unter einer CC BY 4.0 Lizenz (https://creativecommons.org/licenses/by/4.0/) ausgenommen des eLabFTW-Logos.
+Die Inhalte dieser Webseite "eLabFTW - Überblick" von Nadine Schröder stehen unter einer [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) Lizenz ausgenommen des eLabFTW-Logos.
 
 
 
