@@ -39,6 +39,7 @@ Der **Status** kann je nach Fortschritt des Experiments angepasst werden.
 ![animation](Experimente.gif)
 
 
+
 Für Experimente können **Vorlagen** erstellt werden, sodass die Dokumentation vereinheitlicht und das Ausfüllen vereinfacht wird.
 
 ![bild](Vorlagen.png)
@@ -49,12 +50,13 @@ Ein **Editor** ermöglicht die Dokumentation der Durchführung und Ergebnisse de
 ![animation](Experimente_Editor.gif)
 
 
+
 Für ein Experiment können einzelne **Schritte** definiert und je nach Erledigung markiert werden. 
 
 ![animation](Experiment_Schritte.gif)
 
 
-Die für dieses Experiment notwendigen Ressourcen können verknüpft werden, sodass dadurch Details abrufbar sind.
+Die für dieses Experiment notwendigen **Ressourcen** können verknüpft werden, sodass dadurch Details abrufbar sind.
 
 ![bild](Verknüpfungen.png)
 
